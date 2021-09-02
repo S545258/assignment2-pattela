@@ -1,1 +1,3 @@
-# assignment2-pattela
+# assignment2-pattela-
+
+Hi this is Rithesh Reddy
