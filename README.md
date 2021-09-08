@@ -24,3 +24,5 @@ Hi this is Rithesh Reddy
 * Food
 
 ---
+
+[About me](https://github.com/S545258/assignment2-pattela/blob/main/Aboutme.md)
