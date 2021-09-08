@@ -41,5 +41,13 @@ Hi this is Rithesh Reddy
 
 ---
 
+# Pithy Quotes
+> Everything is easy when you are busy. But nothing is easy when you are lazy.
+                                                                      *-Swami Vivekananda*
+                                                                         
+> Talk to yourself atleast once in a Day.. Otherwise you may miss a meeting with an EXCELLENT person in this World.
+                                                                                                           *-Swami Vivekananda*
+
+---
 
 
